@@ -42,4 +42,5 @@ next-env.d.ts
 .DS_Store
 
 # internal docs (private)
-/internal/ref/
+/internal
+/ref/
